@@ -1,2 +1,1 @@
-# Nuke
-Practise
+#Prediction using Simple Linear Regression
